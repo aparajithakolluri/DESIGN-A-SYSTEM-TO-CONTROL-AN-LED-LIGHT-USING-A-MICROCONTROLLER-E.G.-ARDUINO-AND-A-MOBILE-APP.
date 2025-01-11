@@ -33,4 +33,5 @@ Upon installation:
 Users connect their smartphone app directly over local network/Wi-Fi.
 They can seamlessly control multiple LEDs if necessary by sending commands specific only to desired lights/rooms without direct physical interaction.
 
+  output: https://github.com/aparajithakolluri/DESIGN-A-SYSTEM-TO-CONTROL-AN-LED-LIGHT-USING-A-MICROCONTROLLER-E.G.-ARDUINO-AND-A-MOBILE-APP./issues/1#issue-2781914830
 
